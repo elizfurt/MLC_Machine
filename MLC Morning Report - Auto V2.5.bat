@@ -7,9 +7,11 @@
 
 ::@Echo Off
 
-::Sets up your local drives.
-subst D: "C:\Users\Liz Furtado\Drop Zone"
+::Sets up the local drive needed for this file.
 subst R: "C:\Users\Liz Furtado\Client Files"
+
+::Sets up my own personal local drives (not used here.) You can delete or add your own.
+subst D: "C:\Users\Liz Furtado\Drop Zone"
 subst W: "C:\Users\Liz Furtado\Client Files\2022 Client Files"
 subst O: "C:\Users\Liz Furtado\Client Files\2021 Client Files"
 timeout /t 1
