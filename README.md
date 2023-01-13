@@ -16,7 +16,7 @@ This program will allow you to convert the bat file into an exe.
 3. If your folder has several folders that you do not want the Machine to search in, use *findstr /I /V /C:"**folder 1 to exclude**" /I /V /C:"**folder 2 to exclude**"*. (I did not need the program to search in Archive, Pending Files, Misc, Docs, etc., or any file listed as a Seller Rep as there would be no files with outstanding MLCs in them.)
 4. If you're fun, download the Trivia file and place it into a new folder called "Morning". Replace "C:\Users\***Liz Furtado\Databases\Supporting Objects\*** Morning" with the folder the Trivia file is in. 
 5. Download the Batch file, run it to ensure everything works.
-6. *Optional: Convert Bat to Exe. Set the program to "Start Invisible" and set it to run in "Documents" (or whatever folder you'd like.)
+6. *Optional: Convert Bat to Exe. Set the program to "Start Invisible" and set it to run in "Documents" (or whatever folder you'd like.)*
 7. Move the file (either bat or exe) to your start-up folder to have it run on start-up. 
 
 ## License
