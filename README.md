@@ -1,7 +1,7 @@
 # MLC_Machine
 Program uses MS-DOS and OCR to automate scanning and filing of Municipal Lien Certificates. Can be adapted for any type of document. 
 
-## Required File Set Up
+## Required File Organization/Structure
 <img width="415" alt="Screen Shot 2023-01-13 at 11 25 53 AM" src="https://user-images.githubusercontent.com/81473881/212370091-c8aa7a48-ae6c-4422-b81c-4e47f4e13808.png">
 
 ## Optional/recommended programs:
